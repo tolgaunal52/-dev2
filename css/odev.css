@@ -1,0 +1,37 @@
+/* google banner */
+.banner {
+    text-align: center;
+    margin: 50px auto 0 auto;
+    width: 1000px;
+}
+
+/* orta arama bölümü */
+
+.orta {
+    width: 1000px;
+    background-color: #eeeeee;
+}
+
+/* alt bölüm */
+
+.alt {
+    float: left;
+}
+
+.solalt {
+    text-align: center;
+    width: 333px;
+    background-color: #7EE5DA ;
+}
+.ortaalt {
+    text-align: center;
+    width: 333px;
+    background-color: #70CCC2 ;
+    font-size: small;
+}
+.sagalt {
+    text-align: center;
+    width: 333px;
+    background-color: #62B3AA ;
+    font-size: small;
+}
